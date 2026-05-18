@@ -314,7 +314,7 @@ export default function ContactPage() {
                              transition-all duration-200 hover:bg-amber-bright hover:-translate-y-px
                              border-0 cursor-pointer"
                 >
-                  TRANSMIT SECURE INTAKE →
+                  SUBMIT →
                 </button>
               </form>
             )}
