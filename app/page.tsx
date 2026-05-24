@@ -53,7 +53,7 @@ export default function HomePage() {
 
         <div className="relative z-10 max-w-[950px] mx-auto w-full">
           <p className="eyebrow mb-6">
-            Operational Intelligence Platform — Est. 2024
+            Operational Intelligence Platform — Est. 2026
           </p>
 
           <h1
